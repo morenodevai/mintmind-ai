@@ -20,3 +20,21 @@ __pycache__/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# Cubic and ISO build artifacts
+*.iso
+*.img
+*.qcow2
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS-generated files
+.DS_Store
+Thumbs.db
